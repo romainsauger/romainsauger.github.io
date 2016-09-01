@@ -1,12 +1,12 @@
 
-![enter image description here](https://lh3.googleusercontent.com/kawLMAKPAb5Lp-x66oVWts1LXJc3FxDwOmlNEVECTTTjEZENdnRar7uCcv_uX2wNSIJYBV7kRg=s200 "IMG_20160609_070451.jpg")
+![Romain SAUGER](https://lh3.googleusercontent.com/-OCubktmkLE8/V8iM54ZO2LI/AAAAAAAA0Aw/fRGk096FUGARbRZuP-bCiRkB4X26FAiXwCLcB/s200/photo-profil-romainsauger.jpg "photo-profil-romainsauger.jpg")
 # Romain SAUGER  < Développeur Front-end />
->   Graphiste qui a apprit à coder
->   Codeur avec sens graphique 
->   Littéraire passionné de sciences
+>   Graphiste qui a apprit à coder, 
+>   Codeur avec sens graphique, 
+>   Littéraire passionné de sciences, 
 >   Enseignant vacataire, HumanTalker, Membre de la Jeune Chambre Economique 
->   33 ans, Pacsé, 2 enfants
->   Permis B
+>   33 ans, Pacsé, 2 enfants, 
+>   Permis B.
 
 ## Compétences
 - ANGULAR JS ★★★
